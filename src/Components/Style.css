@@ -1,0 +1,15 @@
+.nav-link:hover{
+    color: #282c34;
+    font-weight: lighter;
+    font-size: 26px;
+}
+.Hover:hover{
+    color: #282c34;
+    font-weight: lighter;
+    font-size: 26px;
+}
+.Anchor , .LeftShift ul li a{
+  font-size: 24px;
+  font-weight: 100;
+  font-family: sans-serif;
+}
